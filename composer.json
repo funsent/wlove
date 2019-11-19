@@ -11,5 +11,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "funsent/inputtags": "dev-master"
+    }
 }
