@@ -1,0 +1,13 @@
+{
+    "name": "yanggf/wlove",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "funsent",
+            "email": "2018708@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
