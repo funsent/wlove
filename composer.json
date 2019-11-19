@@ -1,5 +1,6 @@
 {
-    "name": "yanggf/wlove",
+    "name": "funsent/wlove",
+	"description": "一个PHP开发的相亲软件系统，由后台管理、浏览器前端、微信端组成！",
     "type": "project",
     "license": "MIT",
     "authors": [
